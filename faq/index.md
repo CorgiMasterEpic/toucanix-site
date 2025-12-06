@@ -84,3 +84,9 @@ A potential “Pro” edition with additional features is being considered, but 
 **Short Answer:** Great!
 
 **Long Answer:** It consists of a few shell scripts and a makefile contorling them in the root directory and those shell scripts do a few simple things like platform independent building, cleaning, running, etc.
+
+### How does versioning work?
+
+**Short Answer:** Current Year.Update.Micro Update
+
+**Long Answer:** It starts as Current Year.0.0 and its in the format current year.update.micro update and starts on alpha then bata then release.
