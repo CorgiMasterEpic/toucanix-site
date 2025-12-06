@@ -85,6 +85,8 @@ A potential “Pro” edition with additional features is being considered, but 
 
 **Long Answer:** It consists of a few shell scripts and a makefile contorling them in the root directory and those shell scripts do a few simple things like platform independent building, cleaning, running, etc.
 
+---
+
 ### How does versioning work?
 
 **Short Answer:** Current Year.Update.Micro Update
