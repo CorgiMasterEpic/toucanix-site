@@ -4,7 +4,6 @@ layout: default
 ---
 
 <link rel="stylesheet" href="/assets/css/theme.css">
----
 
 ## FAQ
 
@@ -79,3 +78,9 @@ GPU drivers and additional architectures may be added later.
 A potential “Pro” edition with additional features is being considered, but nothing is finalized.
 
 ---
+
+### Whats the current state of the build system?
+
+**Short Answer:** Great!
+
+**Long Answer:** It consists of a few shell scripts and a makefile contorling them in the root directory and those shell scripts do a few simple things like platform independent building, cleaning, running, etc.
