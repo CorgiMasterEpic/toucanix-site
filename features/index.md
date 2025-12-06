@@ -1,5 +1,5 @@
 ---
-title: Toucanix Official Website
+title: Toucanix Official Features List
 layout: default
 ---
 
