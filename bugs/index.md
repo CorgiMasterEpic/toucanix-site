@@ -1,5 +1,5 @@
 ---
-title: Toucanix Official Website
+title: Toucanix Bug Tracker
 layout: default
 ---
 
