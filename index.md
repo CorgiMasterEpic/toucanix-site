@@ -9,7 +9,7 @@ layout: default
 
 Toucanix is an operating system developed by **CorgiMasterEpic**.
 
-GitHub: [https://github.com/CorgiMasterEpic/Toucanix]
+- [Github](https://github.com/CorgiMasterEpic/Toucanix)
 
 ---
 
@@ -29,3 +29,4 @@ You can see more details on other pages.
 
 # Work in progress due 2026.
 # Offical Alphas Are Out!
+
