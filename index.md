@@ -1,6 +1,6 @@
 ---
 title: Toucanix Official Website
-layout: home
+layout: default
 ---
 
 # Toucanix
@@ -27,6 +27,7 @@ You can see more details on other pages.
 
 # Work in progress due 2026.
 # Offical Alphas Are Out!
+
 
 
 
