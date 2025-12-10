@@ -3,8 +3,6 @@ title: Toucanix Official Website
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/theme.css">
-
 # Toucanix
 
 Toucanix is an operating system developed by **CorgiMasterEpic**.
@@ -29,4 +27,5 @@ You can see more details on other pages.
 
 # Work in progress due 2026.
 # Offical Alphas Are Out!
+
 
