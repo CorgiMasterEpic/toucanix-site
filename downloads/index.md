@@ -3,8 +3,6 @@ title: Toucanix Official Downloads
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/theme.css">
-
 ## Downloads
 
 **Release 25.0.1-alpha - Kernel**
