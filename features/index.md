@@ -3,8 +3,6 @@ title: Toucanix Official Features List
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/theme.css">
-
 ## Features (Current & Planned)
 
 - 🦜 **Independent kernel** written in C++
