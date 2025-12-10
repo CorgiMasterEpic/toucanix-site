@@ -3,8 +3,6 @@ title: Toucanix Official Building Guide
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/theme.css">
-
 > **Note:** All tools are intended for Ubuntu 20.04.x LTS.  
 > Windows users **must** use WSL with Ubuntu 20.04.
 
