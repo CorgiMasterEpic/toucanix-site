@@ -1,0 +1,9 @@
+title: Toucanix Site
+description: "The offical site for toucanix (Operating System)"
+remote_theme: abhinavs/moonwalk
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme_mode: auto   # auto | dark | light
