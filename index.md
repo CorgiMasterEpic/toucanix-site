@@ -25,9 +25,10 @@ It focuses on simplicity, learning, and long-term experimentation rather than co
 
 You can see more details on other pages.
 
+## Goat (GNU alternitave for Toucanix)
+This contains stuff like reimplemented core utils (sort of doing its own thing).
+Maybe even gcc/g++/ld alternitaves like clang & lld reimplmented.
+And of cource cargo & rustc reimplmented (maybe).
+
 # Work in progress due 2026.
 # Offical Alphas Are Out!
-
-
-
-
