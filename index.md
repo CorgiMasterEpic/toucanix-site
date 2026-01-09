@@ -30,5 +30,6 @@ This contains stuff like reimplemented core utils (sort of doing its own thing).
 Maybe even gcc/g++/ld alternitaves like clang & lld reimplmented.
 And of cource cargo & rustc reimplmented (maybe).
 
-# Work in progress due 2026.
+# Work in progress due late 2026.
 # Offical Alphas Are Out!
+
