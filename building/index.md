@@ -4,13 +4,12 @@ layout: default
 ---
 
 > **Note:** All tools are intended for Ubuntu 20.04.x LTS.  
-> Windows users **must** use WSL with Ubuntu 20.04.
+> Windows users **should** use WSL with Ubuntu 20.04.x for errorless installs
+> Linux users **should** also use ubuntu 20.04.x for errorless installs
 
 ---
 
-## Windows Users (WSL)
-
-### Step 1 — Install Ubuntu 20.04 LTS
+### Step 1 — Install Ubuntu 20.04 LTS (Linux users skip to step 2)
 
 1. Open the Microsoft Store  
 2. Search for **Ubuntu 20.04 LTS**  
@@ -18,34 +17,17 @@ layout: default
 
 ### Step 2 — Install build tools
 
-Inside your WSL terminal:
-
-```sh
-cd /path/to/Toucanix
-make install_required
-```
-
-### Step 3 — Build & Run
-
-Inside your WSL terminal:
-
-```sh
-make
-```
-
----
-
-## Linux Users (Native Linux)
-### Step 1 — Install build tools
-
 Inside your terminal:
 
 ```sh
 cd /path/to/Toucanix
-make install_required
+./Build/Scripts/install_dependencies.sh
 ```
 
-### Step 2 — Build & Run
+### Step 3 — Build & Run
+
+Inside your terminal:
+
 ```sh
 make
 ```
